@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  traking_number: MyString
+  delivery_status: false
+  courier_id: 1
+
+two:
+  traking_number: MyString
+  delivery_status: false
+  courier_id: 1
